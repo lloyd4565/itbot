@@ -32,7 +32,7 @@ global.mess = {
     owner: 'Bot owner Special Features',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: 'Bot owner Special Features',
     wait: 'Loading...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
