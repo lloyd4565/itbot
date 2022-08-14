@@ -30,7 +30,7 @@ global.mess = {
     admin: 'Group Admin Special Features!',
     botAdmin: 'Bots Must Be Admins First!',
     owner: 'Bot owner Special Features',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    group: 'Features Used Only For Groups!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
