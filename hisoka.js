@@ -1198,12 +1198,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/lloyd4565/itbot'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'support group',
+                                    url: 'https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1237,12 +1237,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/lloyd4565/itbot'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'support group',
+                                    url: 'https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3102,12 +3102,12 @@ let capt = `⭔ Title: ${judul}
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/lloyd4565/itbot'
                                 }
                             }, {
-                                callButton: {
+                                quickReplyButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    id: 'owner'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3115,9 +3115,9 @@ let capt = `⭔ Title: ${judul}
                                     id: 'ping'
                                 }
                             }, {
-                                quickReplyButton: {
-                                    displayText: 'Contact Owner',
-                                    id: 'owner'
+                                urlButton: {
+                                    displayText: 'whatsapp group',
+                                    url: 'https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4'
                                 }  
                             }, {
                                 quickReplyButton: {
