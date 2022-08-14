@@ -31,7 +31,7 @@ global.mess = {
     botAdmin: 'Bots Must Be Admins First!',
     owner: 'Bot owner Special Features',
     group: 'Features Used Only For Groups!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    private: 'Features Used Only For Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
